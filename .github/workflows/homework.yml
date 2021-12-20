@@ -24,5 +24,3 @@ jobs:
       - name: Run tests
         run: |
           pytest -v --tb=no -q
-© 2021 GitHub, Inc.
-Terms
